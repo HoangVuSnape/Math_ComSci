@@ -1,0 +1,2 @@
+- cuối kì làm slide và làm code không gọi API, code lại thuật toán (31/12 và 4/1 là 2 buổi thuyết trình)
+- Giữa kì : 21/12 thi - Làm bài lab giới hạn chatgpt - Có thể dùng 
