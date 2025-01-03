@@ -109,11 +109,18 @@ Thuật toán Bernoulli Naive Bayes là một mô hình máy học đơn giản 
 
 Dù giả định độc lập giữa các đặc trưng có vẻ không thực tế, Bernoulli Naive Bayes thường cho kết quả chính xác tương đương với các mô hình phức tạp hơn. Đây là một công cụ cơ bản đáng tin cậy và hữu ích trong phân loại thời gian thực.
 # Gaussian Naive Bayes
+![](assets/images/Pasted%20image%2020250103203437.png)
+![](assets/images/Pasted%20image%2020250103203453.png)
 
+## Feature probability calculation 
 ![](assets/images/Pasted%20image%2020250102161316.png)
 
 ![](assets/images/Pasted%20image%2020250102161343.png)
 ![](assets/images/Pasted%20image%2020250102161409.png)
 
+![](assets/images/Pasted%20image%2020250103203611.png)
 
-![](assets/images/Pasted%20image%2020250102230325.png)
+
+![](assets/images/Pasted%20image%2020250103203630.png)
+![](assets/images/Pasted%20image%2020250103203644.png)
+![](assets/images/Pasted%20image%2020250102230325.png)![](assets/images/Pasted%20image%2020250103215306.png)
