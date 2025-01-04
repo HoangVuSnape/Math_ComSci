@@ -32,6 +32,18 @@
               "icon": "lucide-file",
               "title": "Final"
             }
+          },
+          {
+            "id": "f128babcfcb4c16f",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "assets/images/Pasted image 20250102160740.png"
+              },
+              "icon": "lucide-image",
+              "title": "Pasted image 20250102160740"
+            }
           }
         ],
         "currentTab": 1
@@ -177,6 +189,20 @@
   },
   "active": "760694e5ab35f099",
   "lastOpenFiles": [
+    "Final/pptC86A.tmp",
+    "Final/pptEC44.tmp",
+    "Final/~$Naive_Bayes_Nhom7.pptx",
+    "Final/pptF7C0.tmp",
+    "Final/pptC3DE.tmp",
+    "Final/pptA63A.tmp",
+    "Final/ppt3ECC.tmp",
+    "Teacher.md",
+    "Final/~$2805404_521H0517.docx",
+    "Final/GausNB_BernouNB_final.ipynb",
+    "Final/FilteringEmail_MultiNB.ipynb",
+    "Final/Naive_Bayes_Nhom7.pptx",
+    "Final.md",
+    "assets/images/Pasted image 20250102160740.png",
     "assets/images/Pasted image 20250103215306.png",
     "assets/images/Pasted image 20250103203644.png",
     "assets/images/Pasted image 20250103203630.png",
@@ -184,27 +210,13 @@
     "assets/images/Pasted image 20250103203453.png",
     "assets/images/Pasted image 20250103203437.png",
     "Xác xuất Probihility.md",
-    "Teacher.md",
     "Hypothesis Testing.md",
     "assets/images/Pasted image 20241214100657.png",
-    "Final.md",
-    "Math_tdtu",
-    "Math",
     "assets/images/Pasted image 20250102230325.png",
     "Untitled.canvas",
     "Buổi 1.md",
     "assets/images/Pasted image 20250102163152.png",
-    "assets/images/Pasted image 20250102163125.png",
-    "assets/images/Pasted image 20250102162450.png",
-    "Midterm/Exercise3.ipynb",
-    "Midterm/Exercise2.ipynb",
-    "Midterm/Exercise1.ipynb",
-    "Midterm",
-    "Labs/HoangDinhQuyVu.ipynb",
     "2024-12-20.md",
-    "Labs/Revise_Midterm.ipynb",
-    "Labs/Ex_HPtest1.ipynb",
-    "Labs/Lab1.ipynb",
     "Untitled 1.md"
   ]
 }

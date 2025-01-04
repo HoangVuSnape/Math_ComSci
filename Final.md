@@ -5,7 +5,6 @@
 - [code scratch NB](https://viblo.asia/p/ml-from-scratch-thuat-toan-phan-loai-naive-bayes-viblo-aNj4vXOqL6r)
 
 - https://machinelearningcoban.com/2017/07/17/mlemap/
-- 
 
 - https://www.youtube.com/watch?v=lFJbZ6LVxN8
 - https://www.youtube.com/watch?v=O2L2Uv9pdDA
